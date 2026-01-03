@@ -1,2 +1,2 @@
 # Artificial-Intelligent
-Machine Learning and Deep Learning Project (Neural Netwok)
+Machine Learning and Deep Learning Project (Neural Network)
