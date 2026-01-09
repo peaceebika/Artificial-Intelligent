@@ -16,10 +16,10 @@ All projects were created using **Google Colab** and demonstrate both **classica
 ├── Decision Tree                         # Decision tree models
 ├── MLP on Digits Dataset                 # MLP on sklearn digits
 ├── MLP_Optimizer_Comparison_MNIST        # Optimizer comparison on MNIST
-├── Maze Solver using DFS and BFS          # Graph search algorithms
-├── Naive Bayes Sentiment Classifier       # NLP sentiment analysis
-├── Three_State_MDP_Q_SARSA_REINFORCE      # RL algorithms on simple MDP
-├── Tic-Tac-Toe AI Using Minimax           # Game-playing AI
+├── Maze Solver using DFS and BFS         # Graph search algorithms
+├── Naive Bayes Sentiment Classifier      # NLP sentiment analysis
+├── Three_State_MDP_Q_SARSA_REINFORCE     # RL algorithms on simple MDP
+├── Tic-Tac-Toe AI Using Minimax          # Game-playing AI
 ├── classical_ml                          # Classical ML algorithms
 ├── deep_learning                         # Neural network models
 └── reinforcement_learning                # RL experiments
