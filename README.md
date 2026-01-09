@@ -9,7 +9,6 @@ All projects were created using **Google Colab** and demonstrate both **classica
 ---
 
 ## Repository Structure
-## Repository Structure
 
 ```
 .
