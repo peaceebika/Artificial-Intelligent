@@ -11,7 +11,7 @@ All projects were created using **Google Colab** and demonstrate both **classica
 ## Repository Structure
 
 ```
-.
+
 ├── Decision Tree                         # Decision tree models
 ├── MLP on Digits Dataset                 # MLP on sklearn digits
 ├── MLP_Optimizer_Comparison_MNIST        # Optimizer comparison on MNIST
