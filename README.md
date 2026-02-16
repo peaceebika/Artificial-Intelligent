@@ -109,7 +109,7 @@ Game-playing AI using the **Minimax algorithm**.
 ## Educational Purpose
 
 This repository is intended for:
-- Teaching and mentoring
+- Teaching, Learning and mentoring
 - Demonstrating core AI/ML concepts
 - Academic reference and experimentation
 
