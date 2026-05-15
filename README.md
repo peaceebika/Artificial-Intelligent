@@ -103,6 +103,7 @@ Game-playing AI using the **Minimax algorithm**.
 - Scikit-learn
 - TensorFlow / Keras
 - Matplotlib
+- Seaborn
 
 ---
 
