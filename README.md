@@ -4,7 +4,7 @@
 
 This repository contains a curated collection of **`Machine Learning (ML), Deep Learning (DL), and Reinforcement Learning (RL) projects`**, developed primarily for **learning, experimentation, and teaching purposes**.
 
-All projects were created using **Google Colab** and demonstrate both **classical AI techniques** and **modern learning algorithms**, ranging from decision trees and neural networks to reinforcement learning and game-playing agents.
+All projects were created using **Google Colab** and demonstrate both **classical AI techniques** and **modern learning algorithms**, ranging from `decision trees and neural networks to reinforcement learning and game-playing agents`.
 
 ---
 
