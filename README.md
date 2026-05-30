@@ -19,7 +19,7 @@ All projects were created using **Google Colab** and demonstrate both **classica
 ├── Naive Bayes Sentiment Classifier      # NLP sentiment analysis
 ├── Three_State_MDP_Q_SARSA_REINFORCE     # RL algorithms on simple MDP
 ├── Tic-Tac-Toe AI Using Minimax          # Game-playing AI
-├── classical_ml                          # Classical ML algorithms
+├── classical_Machine Learning                        # Classical ML algorithms
 ├── deep_learning                         # Neural network models
 └── reinforcement_learning                # RL experiments
 ```
