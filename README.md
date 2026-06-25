@@ -104,6 +104,7 @@ Game-playing AI using the **Minimax algorithm**.
 - TensorFlow / Keras
 - Matplotlib
 - Seaborn
+- VSCode
 
 ---
 
