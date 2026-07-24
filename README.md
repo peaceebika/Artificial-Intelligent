@@ -119,5 +119,5 @@ This repository is intended for:
 
 ## Author
 
-**Peace Ebika**
+**Peace Chinemere Ebika**
 
