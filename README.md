@@ -100,10 +100,10 @@ Game-playing AI using the **Minimax algorithm**.
 - Google Colab
 - NumPy
 - Pandas
-- Scikit-learn
-- TensorFlow / Keras
 - Matplotlib
 - Seaborn
+- Scikit-learn
+- TensorFlow / Keras
 - VSCode
 
 ---
