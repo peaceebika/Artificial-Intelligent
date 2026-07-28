@@ -120,5 +120,4 @@ This repository is intended for:
 ## Author
 
 **Peace Chinemere Ebika**
-**PhD**
 
