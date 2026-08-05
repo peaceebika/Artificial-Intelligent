@@ -97,7 +97,7 @@ Game-playing AI using the **Minimax algorithm**.
 ## Tools & Technologies
 
 - Python
-- Colab
+- Google Colab
 - NumPy
 - Pandas
 - Matplotlib
