@@ -1,4 +1,4 @@
-# ML / Deep Learning - Artificial Intelligence Projects
+# ML / DL - Artificial Intelligence Projects
 
 ## Overview
 
