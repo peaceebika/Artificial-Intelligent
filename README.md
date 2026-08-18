@@ -1,6 +1,6 @@
 # ML & DL - Artificial Intelligence Projects
 
-## Overview
+## Summary 
 
 This repository contains a curated collection of **`Machine Learning (ML), Deep Learning (DL), and Reinforcement Learning (RL) projects`**, developed primarily for **learning, experimentation, and teaching purposes**.
 
