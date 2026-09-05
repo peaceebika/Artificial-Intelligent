@@ -1,4 +1,4 @@
-# ML & DL - Artificial Intelligence
+# ML - Artificial Intelligence
 
 ## Summary 
 
