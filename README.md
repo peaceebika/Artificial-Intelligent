@@ -60,7 +60,7 @@ Comparison of different **optimization algorithms** for training an MLP on the *
 ---
 
 ### Maze Solver using DFS and BFS
-Maze-solving using:
+Maze-solving using:-
 - Depth-First Search (DFS)
 - Breadth-First Search (BFS)
 
@@ -69,51 +69,7 @@ Maze-solving using:
 ---
 
 ### Naive Bayes Sentiment Classifier
-A **Naive Bayes** classifier for sentiment analysis:
-- Text preprocessing
-- Probabilistic modeling
-
-**Category:** NLP / Classical ML
-
----
-
-### Three-State MDP (Q-Learning, SARSA, REINFORCE)
-Reinforcement learning on a simple MDP using:
-- Q-Learning
-- SARSA
-- REINFORCE
-
-**Category:** Reinforcement Learning
-
----
-
-### Tic-Tac-Toe AI using Minimax
-Game-playing AI using the **Minimax algorithm**.
-
-**Category:** Classical AI / Game Theory
-
----
-
-## Tools & Technologies
-
-- Python
-- Google Colab
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- TensorFlow 
-- Keras
-- VSCode
-
----
-
-## Educational Purpose
-
-This repository is intended for:
-- Teaching, Learning and mentoring
-- Demonstrating core AI/ML concepts
+A **Naive Bayes** classifier - Demonstrating core AI/ML concepts
 - Academic reference and experimentation
 
 ---
